@@ -2237,10 +2237,10 @@ asynciterator.prototype@^1.0.0:
   dependencies:
     has-symbols "^1.0.3"
 
-autonumeric@^4.10.0:
-  version "4.10.0"
-  resolved "https://registry.yarnpkg.com/autonumeric/-/autonumeric-4.10.0.tgz#e6eef677ceb2211b72695767c057b3c03e009435"
-  integrity sha512-OtRqsHe+Y/U1Tqga484+FCkFtNixS9XrJBcJkBZzhOyVDGQkZ4aNwTtuAwRTlpFIwEdfgTDE/d0HLwDtWL+9/A==
+autonumeric@^4.10.1:
+  version "4.10.1"
+  resolved "https://registry.yarnpkg.com/autonumeric/-/autonumeric-4.10.1.tgz#309ecf27cb348846e7b2dc45adaa919551b9ad15"
+  integrity sha512-3SbQnyCTwBrPLsTUffeYyq4YDfkvSLZvo6hoEnmyqX7Eh5Gq9ENpBiFsIlpsbskV9USjvJFvseOOKfUztItVmA==
 
 autoprefixer@^10.4.16:
   version "10.4.16"
