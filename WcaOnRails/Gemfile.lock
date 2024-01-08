@@ -596,7 +596,7 @@ GEM
     redis-client (0.19.0)
       connection_pool
     regexp_parser (2.8.3)
-    reline (0.4.1)
+    reline (0.4.2)
       io-console (~> 0.5)
     representable (3.2.0)
       declarative (< 0.1.0)
@@ -679,7 +679,7 @@ GEM
     seedbank (0.5.0)
       rake (>= 10.0)
     semantic_range (3.0.0)
-    shakapacker (7.2.0)
+    shakapacker (7.2.1)
       activesupport (>= 5.2)
       package_json
       rack-proxy (>= 0.6.1)
@@ -881,7 +881,7 @@ DEPENDENCIES
   sdoc
   seedbank
   selectize-rails!
-  shakapacker (= 7.2.0)
+  shakapacker (= 7.2.1)
   sidekiq
   sidekiq-cron
   simple_form
