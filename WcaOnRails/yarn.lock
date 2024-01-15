@@ -2328,10 +2328,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rails/ujs@npm:^6.1.7":
-  version: 6.1.7
-  resolution: "@rails/ujs@npm:6.1.7"
-  checksum: c1cfa3baa4b5ca2aec0fe1f5197a429cd46c3edee844dd749ee35f28002c130d8e49ec194c8de57333dd24d258d6a002a943de9ae1f7658eef166ebc1a09a8b8
+"@rails/ujs@npm:^7.1.2":
+  version: 7.1.2
+  resolution: "@rails/ujs@npm:7.1.2"
+  checksum: 072962733c371fa0fff5e88a0aecd8e91c892f9dc2d31723b7586b45c723206d6b82ac71b0d7db26ea0a5ce60e0832430b061e4669b8f2aa813c3ea975aac98a
   languageName: node
   linkType: hard
 
@@ -9271,7 +9271,7 @@ __metadata:
     "@fullcalendar/luxon3": "npm:^6.1.10"
     "@fullcalendar/react": "npm:^6.1.10"
     "@fullcalendar/timegrid": "npm:^6.1.10"
-    "@rails/ujs": "npm:^6.1.7"
+    "@rails/ujs": "npm:^7.1.2"
     autonumeric: "npm:^4.10.2"
     autoprefixer: "npm:^10.4.16"
     autosize: "npm:^6.0.1"
